@@ -5,7 +5,7 @@ Furthermore this repository is made by a person who is not qualified to conduct 
 **Clarification:** content prefixed with `FIXME:` is work in progress
 
 # 2019-nCoV
-FIXME: Summary
+Novel coronavirus (2019-nCoV) is coronavirus originated in Wuhan, China. [[1]](https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)#cite_note-Fox2020-1)
 
 FIXME: Man are more susceptible to 2019-nCoV - Verificatio needed
 
@@ -18,3 +18,4 @@ FIXME: info
 
 ## References
 FIXME: info
+1. Wikipedia page - https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)
