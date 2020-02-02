@@ -12,8 +12,19 @@ Novel coronavirus (2019-nCoV) is coronavirus originated in Wuhan, China. [[1]](h
 FIXME: Man are more susceptible to 2019-nCoV - Verificatio needed
 
 ## Symptoms
-FIXME: Fever - verification needed
-FIXME: Respiratory issues - verification needed
+* Fever
+* Cough
+* Shortness of breath
+* Runny nose
+* Headache
+* Sore throat
+* A general feeling of being unwell
+
+## Avoiding 
+<a href=https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public>Advice</a> For Public
+
+## Note
+In January 2020, several organizations and institutions began work on creating vaccines for 2019 n-CoV based on the published genome.
 
 ## Prevention
 FIXME: info
