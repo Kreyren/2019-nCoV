@@ -4,6 +4,8 @@ Furthermore this repository is made by a person who is not qualified to conduct 
 
 **Clarification:** content prefixed with `FIXME:` is work in progress
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/3D_medical_animation_coronavirus_structure.jpg/1280px-3D_medical_animation_coronavirus_structure.jpg)
+
 # 2019-nCoV
 Novel coronavirus (2019-nCoV) is coronavirus originated in Wuhan, China. [[1]](https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)#cite_note-Fox2020-1)
 
